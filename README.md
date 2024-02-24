@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Create a Login Form for a Gym Login Page using React and Tailwind
+![image](https://github.com/anshulmalokar/LoginPage/assets/78919378/db51f227-0b42-4fe6-b8ca-81d214132cc3)
